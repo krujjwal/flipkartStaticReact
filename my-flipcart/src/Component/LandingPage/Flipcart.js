@@ -1247,6 +1247,28 @@ export default class Flipcart extends Component {
                         <p>Facebook</p>
 
 
+
+                    <div className={Style.top91}>
+                        <h6>HELP</h6>
+                        <p>Payments</p>
+                        <p>Shipping</p>
+                        <p>Cancellations  Returns</p>
+                        <p>FAQs</p>
+                        <p>Report Infringement</p>
+                    </div>
+
+                    <div className={Style.top91}>
+                        <h6>POLICY</h6>
+                        <p>Return Policy</p>
+                        <p>Terms Of Use</p>
+                        <p>Security</p>
+                        <p>Privacy</p>
+                        <p>Sitemap</p>
+                        <p>EPR Compliance</p>
+                    </div>
+
+                    <div className={Style.top91}>
+                        <h6>SOCIAL</h6>
                         
                     <div className={Style.top91}>
                         <h6>HELP</h6>
@@ -1269,6 +1291,29 @@ export default class Flipcart extends Component {
 
                     <div className={Style.top91}>
                         <h6>SOCIAL</h6>
+                        <p>Facebook</p>
+                    <div className={Style.top91}>
+                        <h6>HELP</h6>
+                        <p>Payments</p>
+                        <p>Shipping</p>
+                        <p>Cancellations  Returns</p>
+                        <p>FAQs</p>
+                        <p>Report Infringement</p>
+                    </div>
+
+                    <div className={Style.top91}>
+                        <h6>POLICY</h6>
+                        <p>Return Policy</p>
+                        <p>Terms Of Use</p>
+                        <p>Security</p>
+                        <p>Privacy</p>
+                        <p>Sitemap</p>
+                        <p>EPR Compliance</p>
+                    </div>
+
+                    <div className={Style.top91}>
+                        <h6>SOCIAL</h6>
+                        <p>Facebook</p>
                         <p>Facebook</p>
                         <p>Twitter</p>
                         <p>YouTube </p>
